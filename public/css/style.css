@@ -1,0 +1,11 @@
+body {
+    background-color: gray;
+}
+
+img {
+    height: 60px;
+}
+
+#formulario-pergunta {
+    margin-top: 5vh;
+}
